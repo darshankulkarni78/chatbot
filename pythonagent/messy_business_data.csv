@@ -1,0 +1,21 @@
+Unnamed: 0,  custID  ,REGION   ,Amount($),Misc Info
+1,C001,South,9966.51,
+2,C002,South,4564.45,
+3,C003,South,5784.02,???
+4,C004,north,1091.07,urgent
+5,C005,EAST,7409.25,
+6,C006,north,5744.25,urgent
+7,C007,north,1976.16,urgent
+8,C008,EAST,2534.34,???
+9,C009,wst,,delayed
+10,C010,wst,,
+11,C011,wst,2851.9,???
+12,C012,wst,9570.17,delayed
+13,C013,South,9772.84,
+14,C014,wst,8476.74,N/A
+15,C015,wst,8187.24,N/A
+16,C016,South,5151.42,???
+17,C017,wst,3977.54,N/A
+18,C018,South,7776.7,delayed
+19,C019,north,3109.41,???
+20,C020,,9345.12,

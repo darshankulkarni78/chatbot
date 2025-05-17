@@ -1,0 +1,21 @@
+# Node modules
+**/node_modules/
+
+# Build files
+**/build/
+**/dist/
+
+# OS and IDE stuff
+.DS_Store
+*.log
+.vscode/
+
+# Env secrets
+.env
+.env.*
+
+# Python junk
+__pycache__/
+*.pyc
+
+aiagent/

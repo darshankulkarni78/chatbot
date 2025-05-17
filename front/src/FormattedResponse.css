@@ -1,0 +1,20 @@
+.formatted-response h4 {
+  font-weight: 600;
+  margin-bottom: 0.3em;
+}
+
+.formatted-response p {
+  margin-bottom: 0.8em;
+  font-size: 1rem;
+}
+
+.sql-code {
+  background-color: #f4f4f4;
+  border-radius: 4px;
+  padding: 12px;
+  margin-top: 8px;
+  overflow-x: auto;
+  font-family: 'Source Code Pro', monospace, monospace;
+  font-size: 0.9rem;
+  white-space: pre-wrap; /* Wrap long lines */
+}
