@@ -48,8 +48,6 @@ python app.py
 cd front
 npm install
 npm start
-```
-_Replace with your actual frontend framework commands if different._
 
 ---
 
