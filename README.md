@@ -48,7 +48,7 @@ python app.py
 cd front
 npm install
 npm start
-
+```
 ---
 
 ## ✨ Features
